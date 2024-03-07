@@ -1068,3 +1068,23 @@ arab_sabotages = {
 	supply_consumption = 0.2
 	icon = 11
 }
+
+#### GREAT WAR ####
+
+farming_idea = {
+	farm_RGO_eff = 0.5
+	icon = 11
+}
+
+mining_idea = {
+	mine_RGO_eff = 0.5
+	icon = 11
+}
+
+
+industrial_boost = {
+	factory_input = -0.6
+	factory_throughput = 0.3
+	factory_output = 0.3
+	icon = 11
+}

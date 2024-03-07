@@ -1,9 +1,3 @@
-NET= {	
-value = -200
-	truce_until="1950.1.1"
-}
-
-
 army = {
 	name = "Army 1"
 	location = 809

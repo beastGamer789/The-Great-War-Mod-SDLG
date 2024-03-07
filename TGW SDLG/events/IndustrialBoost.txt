@@ -1,0 +1,46 @@
+country_event = {
+
+	id = 99999999789
+	allow_multiple_instances = no
+	trigger = {
+		date = 1914.01.01
+		ai = no
+		not = { has_country_flag = stonks }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Monetary Injection"
+	desc = "Inflation is a myth"
+	immediate = {
+		money = 1000000
+		set_country_flag = stonks
+		
+		leadership = 100
+		ammunition = 2000
+		small_arms = 2000
+		artillery = 2000
+		canned_food = 2000
+		wine = 500
+		liquor = 500
+		luxury_clothes = 500
+		machine_parts = 800
+		clipper_convoy = 640
+		wool = 200
+			add_country_modifier = {
+				name = industrial_boost
+				duration = -1
+			}
+			add_country_modifier = {
+				name = mining_idea
+				duration = -1
+			}
+			add_country_modifier = {
+				name = farming_idea
+				duration = -1
+			}
+	}
+	option = {
+		name = "OK"
+	}
+}
