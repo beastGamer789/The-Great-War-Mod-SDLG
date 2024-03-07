@@ -3144,7 +3144,7 @@ leader = {
 	date = 1914.1.1
 	type = land
 	personality = attack_5.1
-	background = defence_1.1
+	background = defence_6.1
 	prestige = 0.8
         picture = "brusilov"
 }
@@ -3153,8 +3153,8 @@ leader = {
 	name = "Mikhail Alekseyev"
 	date = 1914.1.1
 	type = land
-	personality = attack_2.3
-	background = defence_2.1
+	personality = attack_4.3
+	background = defence_4.1
 	prestige = 0.4
         picture = "mikhail"
 }
@@ -3174,19 +3174,9 @@ leader = {
 	name = "Pyotr Wrangel"
 	date = 1914.1.1
 	type = land
-	personality = attack_4.1
-	background = defence_1.1
+	personality = attack_5.1
+	background = defence_5.1
 	prestige = 0.5
         picture = "wrangel"
-}
-
-leader = {
-	name = "Lavr Kornilov"
-	type = land
-	date="1914.1.1"
-	personality = attack_1.1
-	background = defence_4,1
-	prestige = 0.5
-        picture = "kornilov"
 }
 

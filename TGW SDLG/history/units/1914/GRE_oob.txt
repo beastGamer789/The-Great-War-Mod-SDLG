@@ -545,8 +545,8 @@ leader = {
 	name = "King Constantine I"
 	date = 1914.1.1
 	type = land
-	personality = attack_4.1
-	background = defence_4.1
+	personality = attack_5.1
+	background = defence_6.1
 	prestige = 1
 }
 

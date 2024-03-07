@@ -3999,8 +3999,8 @@ leader = {
 	name = "John French"
 	date = 1914.1.1
 	type = land
-	personality = attack_3.1
-	background = defence_3.1
+	personality = attack_4.1
+	background = defence_4.1
 	prestige = 0.5
         picture = "french"
 }
@@ -4009,8 +4009,8 @@ leader = {
 	name = "Horace Smith Dorrien"
 	date = 1914.1.1
 	type = land
-	personality = attack_4.1
-	background = defence_4.1
+	personality = attack_5.1
+	background = defence_5.1
 	prestige = 0.7
         picture = "horace"
         
@@ -4020,8 +4020,8 @@ leader = {
 	name = "Douglas Haig"
 	date = 1914.1.1
 	type = land
-	personality = attack_3.1
-	background = defence_3.1
+	personality = attack_4.1
+	background = defence_4.1
 	prestige = 0.5
         picture = "haig"
 
