@@ -31,6 +31,9 @@ political_decisions = {
 			ITA	= {
 		    country_event = { id = 3 days = 2 }
         }
+		ENG	= {
+		    end_war = ITA
+        }		
 		}
 		ai_will_do = {
 			factor = 1
@@ -67,6 +70,18 @@ political_decisions = {
 			set_global_flag = perder_italia_entente
 			ITA	= {
 		    country_event = { id = 3 days = 2 }
+        }
+		ENG	= {
+		    end_war = ITA
+        }
+		FRA	= {
+		    end_war = ITA
+        }
+		RUS	= {
+		    end_war = ITA
+        }
+		USA	= {
+		    end_war = ITA
         }
 		}
 		ai_will_do = {

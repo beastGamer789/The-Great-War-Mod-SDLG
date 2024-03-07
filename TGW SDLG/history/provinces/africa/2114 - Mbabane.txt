@@ -7,6 +7,6 @@ life_rating = 35
 1914.1.1 = {
 	owner = ENG
 	controller = ENG
-	add_core = SAF
+	add_core = COM
 	colonial = 2
 }

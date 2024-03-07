@@ -6,9 +6,9 @@ trade_goods = fish
 life_rating = 35
 colonial = 2
 1914.1.1 = {
-	owner = NEW
-	controller = NEW
-	add_core = CAN
+	owner = COM
+	controller = COM
+	add_core = COM
 	colonial = 0
 	railroad = 3
 }
