@@ -355,3 +355,27 @@ navy = {
 		name= "Ship" 
 		type = commerce_raider
 	}
+	
+}
+
+
+leader = {
+	name = "Nikola Zhekov"
+	date = 1914.1.1
+	type = land
+	personality = attack_5.1
+	background = defence_6.1
+	prestige = 0.5
+        picture = "zhekov"
+}
+
+leader = {
+	name = "Ivan Kolev"
+	date = 1914.1.1
+	type = land
+	personality = attack_5.1
+	background = defence_6.1
+	prestige = 0.5
+        picture = "kolev"
+}
+
