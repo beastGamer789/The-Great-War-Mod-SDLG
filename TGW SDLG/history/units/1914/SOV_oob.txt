@@ -3,7 +3,7 @@ leader = {
 	date = 1914.1.1
 	type = land
 	personality = attack_4.1
-	background = defense_6.1
+	background = defense_4.1
 	prestige = 0.9
         picture = "trotsky"
 }
@@ -12,8 +12,8 @@ leader = {
 	name = "Joseph Stalin"
 	date = 1914.1.1
 	type = land
-	personality = attack_4.1
-	background = defense_4.1
+	personality = attack_3.1
+	background = defense_3.1
 	prestige = 0.5
         picture = "stalin"
 }
@@ -23,8 +23,8 @@ leader = {
 	name = "Mikhail Tukhachevsky"
 	date = 1914.1.1
 	type = land
-	personality = attack_3.1
-	background = attack_3.1
+	personality = attack_2.1
+	background = attack_2.1
 	prestige = 0.5
         picture = "tukhachevsky"
 }
@@ -35,7 +35,7 @@ leader = {
 	date = 1914.1.1
 	type = land
 	personality = attack_5.1
-	background = attack_6.1
+	background = attack_5.1
         picture = "lenin"
 }
 
