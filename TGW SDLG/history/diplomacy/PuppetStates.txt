@@ -381,7 +381,7 @@ vassal = {
 # UK - CAN
 vassal = {
 	first = ENG
-	second = CAN
+	second = COM
 	start_date = 1867.1.1
 	end_date = 1953.1.1
 }
