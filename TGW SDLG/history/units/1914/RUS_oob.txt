@@ -34,11 +34,6 @@ GRE = {
 	influence_value = 25
 }
 
-NET= {	
-value = -200
-	truce_until="1950.1.1"
-}
-
 ROM = {
 	
 	value = 125

@@ -6,7 +6,9 @@ AUS = {
 
 FRA = {
 	value = 125		#relation
-}ALB = {
+}
+
+ALB = {
 	value = 125
 	level = 4
 	influence_value = 25
@@ -14,11 +16,6 @@ FRA = {
 
 PRU = {
 	value = 175		#relation
-}
-
-NET= {	
-value = -200
-	truce_until="1950.1.1"
 }
 
 army = {
@@ -1262,5 +1259,57 @@ navy = {
 		type = steam_transport
 	}
 	
-	
 }	
+
+
+leader = {
+	name = "Pietro Badoglio"
+	date = 1914.1.1
+	type = land
+	personality = attack_3.1
+	background = defence_3.1
+	prestige = 0.5
+        picture = "badgolio"
+}
+
+leader = {
+	name = "Luigi Cadorna"
+	date = 1914.1.1
+	type = land
+	personality = attack_3.1
+	background = defence_3.1
+	prestige = 0.5
+        picture = "luigi"
+}
+
+leader = {
+	name = "Prince Emanuele Filiberto, Duke of Aosta"
+	date = 1914.1.1
+	type = land
+	personality = attack_3.1
+	background = defence_3.1
+	prestige = 0.5
+        picture = "aosta"
+}
+
+
+leader = {
+	name = "Armando Diaz"
+	date = 1914.1.1
+	type = land
+	personality = attack_5.1 
+	background = defence_5.1
+        prestige = 0.8
+        picture = "diaz"
+}
+
+
+leader = {
+	name = "Guglielmo Pecori Giraldi"
+	date = 1914.1.1
+	type = land
+	personality = attack_4.1
+	background = defence_4.1
+	prestige = 0.5
+        picture = "giraldi"
+}

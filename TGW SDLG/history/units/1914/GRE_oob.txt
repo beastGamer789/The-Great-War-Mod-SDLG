@@ -1,8 +1,3 @@
-NET= {	
-value = -200
-	truce_until="1950.1.1"
-}
-
 army = {
 	name = "Army 1"
 	location = 834
@@ -470,43 +465,88 @@ navy = {
 		name= "U-67" 
 		type = carrier
 	}
-	
-		ship = {
+	ship = {
 		name= "Transports"
 		type = commerce_raider
-	}	ship = {
+	}	
+	ship = {
 		name= "1. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "2. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "3. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "4. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "5. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "6. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "7. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "8. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "9. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "10. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "11. Transport"
-		type = steam_transport}ship = {
+		type = steam_transport
+	} 
+	ship = {
 		name= "12. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "12. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "13. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}
+	ship = {
 		name= "14. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "15. Transport"
-		type = steam_transport}	ship = {
+		type = steam_transport
+	}	
+	ship = {
 		name= "16. Transport"
-		type = steam_transport}}
+		type = steam_transport
+	}
+	
+}
+
+
+leader = {
+	name = "King Constantine I"
+	date = 1914.1.1
+	type = land
+	personality = attack_5.1
+	background = defence_6.1
+	prestige = 1
+}
 

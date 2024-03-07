@@ -1,13 +1,7 @@
-NET = {
-	truce_until = 1839.4.1
-}
 ENG = {
 	value = 200
 }
-NET= {	
-value = -200
-	truce_until="1950.1.1"
-}
+
 FRA = {
 	value = 125
 }

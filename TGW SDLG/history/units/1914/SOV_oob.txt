@@ -2,20 +2,20 @@ leader = {
 	name = "Leon Trotsky"
 	date = 1914.1.1
 	type = land
-	personality = intuitive
-	background = gifted_administrator
+	personality = attack_4.1
+	background = defense_6.1
+	prestige = 0.9
         picture = "trotsky"
-        prestige = 1
 }
 
 leader = {
 	name = "Joseph Stalin"
 	date = 1914.1.1
 	type = land
-	personality = harsh
-	background = hated
+	personality = attack_4.1
+	background = defense_4.1
+	prestige = 0.5
         picture = "stalin"
-        prestige = 0.5
 }
 
 
@@ -23,12 +23,19 @@ leader = {
 	name = "Mikhail Tukhachevsky"
 	date = 1914.1.1
 	type = land
-	personality = implacable
-	background = bootlicker
+	personality = attack_3.1
+	background = attack_3.1
+	prestige = 0.5
         picture = "tukhachevsky"
-        prestige = 0.5
 }
 
 
-
+leader = {
+	name = "Vladimir Lenin"
+	date = 1914.1.1
+	type = land
+	personality = attack_5.1
+	background = attack_6.1
+        picture = "lenin"
+}
 

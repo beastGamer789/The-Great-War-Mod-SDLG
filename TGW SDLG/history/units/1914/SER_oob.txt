@@ -313,3 +313,14 @@ army = {
         }
 }
 
+
+leader = {
+	name = "Radomir Putnik"
+	date = 1914.1.1
+	type = land
+	personality = attack_5.1
+	background = defence_6.1
+	prestige = 1
+        picture = "putnik"
+}
+
