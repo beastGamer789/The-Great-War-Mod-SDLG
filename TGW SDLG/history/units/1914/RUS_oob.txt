@@ -190,15 +190,6 @@ army = {
 army = {
 	name = "Army 2"
 	location = 706
-	leader = {
-		name = "Aleksei Brusilov"
-		type = land
-		date="1914.1.1"
-		personality = attack_5.1
-		background = defence_1.1
-                picture = "brusilov"
-		prestige = 0.8
-	}
 	regiment = {
 		name= "Hussars" 
         home = 1061
@@ -409,15 +400,6 @@ army = {
 army = {
 	name = "Army 4"
 	location = 958
-	leader = {
-		name = "Lavr Kornilov"
-		type = land
-		date="1914.1.1"
-		personality = attack_1.1
-		background = defence_3,1
-                picture = "kornilov"
-		prestige = 0.5
-	}
 	regiment = {
 		name= "Hussars" 
         home = 1001
@@ -3159,35 +3141,4 @@ navy = {
 		type = steam_transport
 	}
 	
-}
-
-
-leader = {
-	name = "Mikhail Alekseyev"
-	date = 1914.1.1
-	type = land
-	personality = attack_2.1
-	background = defence_2.1
-        picture = "mikhail"
-	prestige = 0.3
-}
-
-leader = {
-	name = "Alexander Kolchak"
-	date = 1914.1.1
-	type = sea
-	personality = attack_3.1
-	background = defence_3.1
-        picture = "kolchak"
-        prestige = 0.5
-}
-
-leader = {
-	name = "Pyotr Wrangel"
-	date = 1914.1.1
-	type = land
-	personality = attack_4.1
-	background = 
-        picture = "wrangel"
-        prestige = 0.5
 }

@@ -7,6 +7,8 @@ CHI_communist_2;Great Leap Forward Policy;;;;;;;;;;;;;x;;;;
 FRA_democracy;The French Republic;;;;;;;;;;;;;x;;;;
 FRA_presidential_dictatorship;The French Empire;;;;;;;;;;;;;x;;;;
 GER_hms_government;The German Empire;Empire allemand;Deutsches Kaiserreich;;El Imperio Alemán;;;;;;;;;x;;;;
+GEC;Germany Lenin Revolution;Empire allemand;Deutsches Kaiserreich;;El Imperio Alemán;;;;;;;;;x;;;;
+GEC_ADJ;Revolutionary Germany;;;;;;;;;;;;x
 GER_fascist_dictatorship;German Reich;;;;;;;;;;;;;x;;;;
 GER_national_socialist;Nationalsozialist. Deutsche Arbeiterpartei;;;;;;;;;;;;;x;;;;
 RUS_communist_3;New Economic Policy;;;;;;;;;;;;;x;;;;

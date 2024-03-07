@@ -13,17 +13,22 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		tag = TUR
-		year = 1917
-		has_recently_lost_war = yes
-		NOT = {
-			has_global_flag = tur_died_finally
-		}
+		tag = XXX
 	}
 	
 	option = {
 		name = "Nothin ever last forever..."
 		capital = 876
+		TUR = {
+	end_war = ENG
+	end_war = ITA
+		end_war = SER
+	end_war = JAP
+	end_war = ROM
+	end_war = USA
+	end_war = FRA
+	end_war = RUS
+	}
 		prestige = -150
         government = democracy
 		858 = {

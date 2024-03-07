@@ -8,46 +8,6 @@ value = -200
 	truce_until="1950.1.1"
 } 
 
-leader = {
-	name = "Erich Ludendorff"
-	date = 1914.1.1
-	type = land
-	personality = attack_5.1
-	background = 
-        prestige = 0.5
-        picture = "ludendorff"
-}
-
-leader = {
-	name = "August von Mackensen"
-	date = 1914.1.1
-	type = land
-	personality = attack_5.1
-	background = defence_1.1
-        prestige = 0.5
-        picture = "mackensen"
-}
-
-leader = {
-	name = "Paul von Hindenburg"
-	date = 1914.1.1
-	type = land
-	personality = attack_5.1
-	background = defence_4.1
-        prestige = 0.8
-        picture = "hindenburg"
-}
-
-leader = {
-	name = "Erich von Falkenhayn"
-	date = 1914.1.1
-	type = land
-	personality = attack_4.1
-	background = -defence_2.1
-        prestige = 0.5
-        picture = "falken"
-}
-
 #Sphere of Influence
 
 TUR = {
@@ -84,15 +44,6 @@ GRE = {
 army = {
 	name = "Schutztruppe"
 	location = 2038
-	leader = {
-		name = "Paul von Lettow-Vorbeck"
-		type = land
-		date="1914.1.1"
-		personality = attack_2.1
-		background = defence_5.1
-                picture = "lettow"
-		prestige = 0.5
-	}
 	regiment = {
 		name= "Hussars" 
 
@@ -2054,15 +2005,6 @@ army = {
 navy = {
 	name = "High Seas Fleet"
 	location = 528
-	leader = {
-		name = "Reinhard Scheer"
-		type = sea
-		date = "1914.1.1"
-		personality = attack_5.1
-		background = defence_3.1
-                prestige = 0.5
-		picture="scheer"
-	}
 	ship = {
 		name= "SMS König" 
 		type = battleship

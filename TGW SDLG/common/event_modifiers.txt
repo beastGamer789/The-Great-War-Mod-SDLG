@@ -947,7 +947,7 @@ mon_mobo = {
 }
 
 rus_mobo = {
-        mobilisation_size = 0.100
+        mobilisation_size = 0.1
 	icon = 16
 }
 
@@ -957,7 +957,7 @@ sov_mobo = {
 }
 
 ger_mobo = {
-        mobilisation_size = 0.22
+        mobilisation_size = 0.21
 	icon = 16
 }
 
@@ -1052,4 +1052,19 @@ kinda_bad_badboy = {
 	cb_generation_speed_modifier = -0.3
 	icon = 8
 
+}
+
+blamethearmenians = {
+	mobilisation_impact = 0.05	
+	core_pop_militancy_modifier = -0.1
+	org_regain = 0.10
+	land_organisation = 0.10
+	supply_consumption = -0.1
+	icon = 11
+}
+
+arab_sabotages = {
+	land_organisation = -0.05
+	supply_consumption = 0.2
+	icon = 11
 }

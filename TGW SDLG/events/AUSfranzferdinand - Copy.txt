@@ -13,17 +13,23 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		tag = KUK
-		year = 1917
-		has_recently_lost_war = yes
-		NOT = {
-			has_global_flag = kuk_died_finally
-		}
+		tag = XXX
+		
 	}
 	
 	option = {
 		name = "Nothin ever last forever..."
 		prestige = -150
+		KUK = {
+	end_war = ENG
+	end_war = ITA
+		end_war = SER
+	end_war = JAP
+	end_war = ROM
+	end_war = USA
+	end_war = FRA
+	end_war = RUS
+	}
 		release_vassal = SER
 		release_vassal = BOL
 		change_tag = AUS

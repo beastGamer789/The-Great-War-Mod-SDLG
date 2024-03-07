@@ -58,59 +58,6 @@ HAL = {
 	influence_value = 25
 }
 
-#Leaders
-
-leader = {
-	name = "Enver Pasha"
-	date = 1914.1.1
-	type = land
-	personality = attack_2.1
-	background = defence_2.1
-	prestige = 0.5
-        picture = "enver"
-}
-
-leader = {
-	name = "Fevzi Çakmak"
-	date = 1914.1.1
-	type = land
-	personality = attack_3.1
-	background = defence_4.1
-	prestige = 0.5
-        picture = "fevzi"
-}
-
-leader = {
-	name = "Cevat Cobanli"
-	date = 1914.1.1
-	type = land
-	personality = attack_2.1
-	background = defence_3.1
-	prestige = 0.5
-        picture = "conbali"
-}
-
-leader = {
-	name = "Ahmed Izzet Pasha"
-	date = 1914.1.1
-	type = land
-	personality = attack_1.1
-	background = 
-	prestige = 0.5
-        picture = "ahmed"
-}
-
-leader = {
-	name = "Mustafa Kemal Ataturk"
-	date = 1914.1.1
-	type = land
-	personality = attack_4.1
-	background = defence_4.1
-	prestige = 0.8
-        picture = "ataturk"
-}
-
-
 army = {
 	name = "Army 1"
 	location = 860

@@ -52,6 +52,26 @@ political_decisions = {
 		}
 	}
 	
+	revolution_win = {
+		potential = {
+				tag = GEC
+		}
+		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			prestige = 5
+			change_tag = GER
+			capital = 549
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	construct_germania_werft = {
 		potential = {
 			NOT = {

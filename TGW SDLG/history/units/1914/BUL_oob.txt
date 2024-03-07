@@ -3,26 +3,6 @@ value = -200
 	truce_until="1950.1.1"
 }
 
-leader = {
-	name = "Nikola Zhekov"
-	date = 1914.1.1
-	type = land
-	personality = attack_4.1
-	background = defence_3.1
-        picture = "zhekov"
-        prestige = 0.5
-}
-
-leader = {
-	name = "Ivan Kolev"
-	date = 1914.1.1
-	type = land
-	personality = attack_4.1
-	background = 
-        prestige = 0.5
-        picture = "kolev"
-}
-
 
 army = {
 	name = "Army 1"

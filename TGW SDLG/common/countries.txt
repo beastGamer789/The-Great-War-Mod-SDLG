@@ -446,6 +446,7 @@ GCO		="countries/Gran Colombia.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
+GEC		= "countries/Germany_comi.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

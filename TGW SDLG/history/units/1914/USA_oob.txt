@@ -3,16 +3,6 @@ value = -200
 	truce_until="1950.1.1"
 }
 
-leader = {
-	name = "John J. Pershing"
-	date = 1914.1.1
-	type = land
-	personality = attack_3.1
-	background = defence_3.1
-        prestige = 0.8
-        picture = "pershing"
-}
-
 #Sphere of Influence
 
 JAP = {

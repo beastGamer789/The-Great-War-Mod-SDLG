@@ -1249,15 +1249,6 @@ army = {
 navy = {
 	name = "Grand Fleet"
 	location = 267
-	leader = {
-		name = "John Rushworth Jellicoe"
-		type = sea
-		date="1914.1.1"
-		personality = attack_5.1
-		background = 
-                prestige = 0.5
-		picture="jellicoe"
-	}
 	ship = {
 		name= "HMS Ark Royal" 
 		type = carrier
@@ -3999,36 +3990,4 @@ navy = {
 		name= "Transport" 
 		type = steam_transport
 	}
-}
-
-leader = {
-	name = "John French"
-	date = 1914.1.1
-	type = land
-	personality = attack_3.1
-	background = 
-        prestige = 0.5
-        picture = "french"
-}
-
-leader = {
-	name = "Horace Smith Dorrien"
-	date = 1914.1.1
-	type = land
-	personality = attack_1.3
-	background = defence_4.3
-        picture = "horace"
-	prestige = 0.7
-        
-}
-
-leader = {
-	name = "Douglas Haig"
-	date = 1914.1.1
-	type = land
-	personality = attack_1.1
-	background = defence_1.1
-        picture = "haig"
-	prestige = 0.5
-
 }

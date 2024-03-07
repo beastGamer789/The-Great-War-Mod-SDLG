@@ -13,17 +13,23 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		tag = GER
-		year = 1920
-		has_recently_lost_war = yes
-		NOT = {
-			has_global_flag = ger_died_finally
-		}
+		tag = XXX
+		
 	}
 	
 	option = {
 		name = "Nothin ever last forever..."
 		prestige = -150
+		GER = {
+	end_war = ENG
+	end_war = ITA
+		end_war = SER
+	end_war = JAP
+	end_war = ROM
+	end_war = USA
+	end_war = FRA
+	end_war = RUS
+	}
 		release_vassal = POL
 		release_vassal = UBD
 		371 = {
@@ -139,6 +145,7 @@ country_event = {
 			571 = {
 			secede_province = GER 
 		}
+		government = proletarian_dictatorship
 	}
 }
 }
