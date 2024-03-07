@@ -1,9 +1,9 @@
 trade_goods = wool
 life_rating = 15
 1914.1.1 = {
-	owner = SAF
+	owner = COM
 	controller = SAF
-	add_core = SAF
+	add_core = COM
 	colonial = 2
 	railroad = 2
 	naval_base = 1

@@ -13,8 +13,8 @@ naval_base = 5
 	colonial = 2
 }
 1914.1.1 = {
-	owner = SAF
+	owner = COM
 	controller = SAF
-	add_core = SAF
+	add_core = COM
 	colonial = 0
 }

@@ -4,8 +4,8 @@ add_core = ZUL
 trade_goods = wool
 life_rating = 35
 1914.1.1 = {
-	owner = SAF
+	owner = COM
 	controller = SAF
-	add_core = SAF
+	add_core = COM
 	colonial = 0
 }
