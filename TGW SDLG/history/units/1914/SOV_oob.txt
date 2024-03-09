@@ -18,14 +18,13 @@ leader = {
         picture = "stalin"
 }
 
-
 leader = {
 	name = "Mikhail Tukhachevsky"
 	date = 1914.1.1
 	type = land
 	personality = attack_3.1
 	background = defense_3.1
-	prestige = 0.5
+        prestige = 0.5
         picture = "tukhachevsky"
 }
 
@@ -36,6 +35,7 @@ leader = {
 	type = land
 	personality = attack_5.1
 	background = defense_5.1
+	prestige = 0.5
         picture = "lenin"
 }
 
