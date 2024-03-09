@@ -1,5 +1,6 @@
 country_event = {
-	id = 99999999789
+
+	id = 7899978999789
 	allow_multiple_instances = no
 	trigger = {
 		date = 1914.01.01
