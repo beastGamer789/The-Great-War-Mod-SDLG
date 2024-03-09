@@ -4,11 +4,6 @@ PER = {
 	influence_value = 25
 }
 
-NET= {	
-value = -200
-	truce_until="1950.1.1"
-}
-
 AFG = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
@@ -3990,7 +3985,6 @@ navy = {
 		name= "Transport" 
 		type = steam_transport
 	}
-<<<<<<< HEAD
 	
 }
 
@@ -4027,6 +4021,3 @@ leader = {
 
 }
 
-=======
-}
->>>>>>> 0ea8822ef8d8a521068c3eb4ca10bbb26d934fc5
