@@ -5,7 +5,7 @@ country_event = {
 	trigger = {
 		date = 1914.01.01
 		ai = no
-		not = { has_country_flag = stonks }
+		not = { has_country_flag = stonkszoinkssdlg }
 	}
 	mean_time_to_happen = {
 		days = 1
@@ -13,8 +13,8 @@ country_event = {
 	title = "Monetary Injection"
 	desc = "Inflation is a myth"
 	immediate = {
-		money = 1000000
-		set_country_flag = stonks
+		money = 2000000
+		set_country_flag = stonkszoinkssdlg
 		
 		leadership = 100
 		ammunition = 2000

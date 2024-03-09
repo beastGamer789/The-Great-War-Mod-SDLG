@@ -3186,7 +3186,7 @@ leader = {
 	type = land
 	date="1914.1.1"
 	personality = attack_4.1
-	background = defence_4,1
+	background = defence_4.1
 	prestige = 0.5
         picture = "kornilov"
 }
