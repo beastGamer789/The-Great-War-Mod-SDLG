@@ -310,44 +310,44 @@ army = {
 		type = hussar
 	}
 	regiment = {
-		name = "Guard" 
+		name = "Guard"
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 284
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name= "Artillery" 
@@ -417,42 +417,42 @@ army = {
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name = "Guard" 
         home = 300
-		type = "guard"
+		type = guard
 	}
 	regiment = {
 		name= "Artillery" 
@@ -522,42 +522,42 @@ army = {
 	regiment = {
 		name = "infantry" 
         home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
          home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
          home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 292
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name= "Artillery" 
@@ -627,42 +627,42 @@ army = {
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name = "infantry" 
         home = 277
-		type = "infantry"
+		type = infantry
 	}
 	regiment = {
 		name= "Artillery" 
