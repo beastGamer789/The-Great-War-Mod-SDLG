@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = TUN
+controller = TUN
 add_core = TUN
 trade_goods = fruit
 life_rating = 35

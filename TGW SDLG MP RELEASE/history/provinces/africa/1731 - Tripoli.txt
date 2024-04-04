@@ -1,4 +1,4 @@
-owner = ITA
+owner = TRI
 controller = TUR
 add_core = TRI
 trade_goods = fruit
