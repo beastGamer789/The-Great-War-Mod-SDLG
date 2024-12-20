@@ -230,4 +230,35 @@ political_decisions = {
 			factor = 0
 		}
 	}
+	old_general_mode = {
+		alert = no
+		potential = {
+			NOT = { has_global_flag = generals_done }
+			ai = no
+		}
+		allow = {}
+		effect = {
+			set_global_flag = generals_done 
+		}
+
+	}
+	new_general_mode = {
+		alert = no
+		potential = {
+			NOT = { has_global_flag = generals_done }
+			ai = no
+		}
+		allow = {}
+		effect = {
+			set_global_flag = generals_done 
+			any_country = {
+				limit = { tag = FRA }
+				define_general = {
+					name = "NAME NAME"
+					personality = defence_1 
+					background = attack_1
+				}
+			}
+		}
+	}
 }
